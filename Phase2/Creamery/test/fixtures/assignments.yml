@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  store: one
+  employee: one
+  start_date: 2021-07-31
+  end_date: 2021-07-31
+
+two:
+  store: two
+  employee: two
+  start_date: 2021-07-31
+  end_date: 2021-07-31
